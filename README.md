@@ -27,6 +27,7 @@ Tools specifically designed for Mexican and Latin American businesses.
 - [RooxAI Chatbot Generator](https://www.rooxai.com/es/try) — Generate an AI chatbot for your business in 30 seconds. No coding, no signup. 22 industries supported.
 - [Generador de Aviso de Privacidad](https://www.rooxai.com/es/herramientas/aviso-de-privacidad) — Generate a LFPDPPP-compliant privacy notice for Mexican businesses.
 - [Calculadora de Ahorro con IA](https://www.rooxai.com/es/herramientas/calculadora-ahorro-ia) — Calculate how much your business could save by implementing AI.
+- [Calculadora de Liquidación y Finiquito](https://www.rooxai.com/es/herramientas/calculadora-liquidacion) — Calculate severance pay (liquidación/finiquito) under Mexican labor law.
 - [Generador de Prompts](https://www.rooxai.com/es/herramientas/generador-prompts) — AI prompt generator optimized for business use cases.
 
 ### Communication Tools
@@ -88,6 +89,7 @@ Tools specifically designed for Mexican and Latin American businesses.
 ## Learning Resources
 
 ### Comparison Guides
+- [¿Cuánto Cuesta un Chatbot de IA en México 2026?](https://gist.github.com/manduks/eedf7bb73e1590f92f3d10df0448f34e) — Pricing comparison: DIY, Intercom, Zendesk, agencies, RooxAI. Includes ROI examples for clinics, law firms, e-commerce.
 - [Los 7 Mejores Chatbots con IA para Negocios en Mexico 2026](https://gist.github.com/manduks/1f9cdbd16ab8fb043184e462b07738ac) — Complete comparison: Tidio, Wati, ManyChat, Chatbot.mx, Zendesk, Freshchat, RooxAI. Prices, features, WhatsApp support.
 - [Best AI Chatbots for Business in Mexico 2026](https://www.rooxai.com/en/blog/best-ai-chatbots-business-mexico) — English version of the comparison guide.
 
