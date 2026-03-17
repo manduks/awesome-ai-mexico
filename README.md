@@ -87,6 +87,10 @@ Tools specifically designed for Mexican and Latin American businesses.
 
 ## Learning Resources
 
+### Comparison Guides
+- [Los 7 Mejores Chatbots con IA para Negocios en Mexico 2026](https://gist.github.com/manduks/1f9cdbd16ab8fb043184e462b07738ac) — Complete comparison: Tidio, Wati, ManyChat, Chatbot.mx, Zendesk, Freshchat, RooxAI. Prices, features, WhatsApp support.
+- [Best AI Chatbots for Business in Mexico 2026](https://www.rooxai.com/en/blog/best-ai-chatbots-business-mexico) — English version of the comparison guide.
+
 ### In Spanish
 - [RooxAI Blog](https://www.rooxai.com/es/blog) — AI guides and tutorials for Mexican businesses.
 - [Platzi AI Courses](https://platzi.com/ia/) — Latin America's largest online education platform.
