@@ -30,6 +30,9 @@ Tools specifically designed for Mexican and Latin American businesses.
 - [Calculadora de Liquidación y Finiquito](https://www.rooxai.com/es/herramientas/calculadora-liquidacion) — Calculate severance pay (liquidación/finiquito) under Mexican labor law.
 - [Generador de Prompts](https://www.rooxai.com/es/herramientas/generador-prompts) — AI prompt generator optimized for business use cases.
 - [Checklist Cumplimiento PLD/AML](https://www.rooxai.com/es/herramientas/cumplimiento-pld) — Interactive PLD/AML compliance checklist for SOFOMs. 25 requirements, vulnerable activities table, UIF reporting thresholds.
+- [Calendario PLD 2026](https://www.rooxai.com/es/herramientas/calendario-pld) — Interactive regulatory calendar with all PLD/AML deadlines for SOFOMs. ROI/ROIP dates, CNBV reports, annual training, audits.
+- [Evaluación de Riesgo PLD](https://www.rooxai.com/es/herramientas/evaluacion-riesgo-pld) — 10-factor PLD risk assessment for SOFOMs. Get your risk score and recommendations.
+- [Asistente IA de Cumplimiento PLD](https://www.rooxai.com/es/pld) — AI assistant trained on 17 Mexican PLD regulatory documents. Answers with source citations. Free demo available.
 
 ### Communication Tools
 - [Plantillas de WhatsApp Business](https://www.rooxai.com/es/herramientas/plantillas-whatsapp) — Professional WhatsApp message templates for businesses.
