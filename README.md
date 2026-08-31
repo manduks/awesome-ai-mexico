@@ -58,6 +58,9 @@ Tools specifically designed for Mexican and Latin American businesses.
 - [MessageBird](https://messagebird.com) — Omnichannel communication.
 - [Wati](https://www.wati.io) — WhatsApp Business API platform focused on SMBs.
 
+### Agentes de Voz / Voice Agents
+- [Hermes](https://www.buildwithhermes.com) — Plataforma para agencias que despliegan agentes de voz con IA bajo su propia marca. Incluye CRM, campanas y facturacion por uso. Desde $149 USD/mes con 300 minutos incluidos.
+
 ## AI for Business
 
 ### Process Automation
